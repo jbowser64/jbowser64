@@ -1,5 +1,5 @@
 
-
+<body>
     <h1>
       👋 Hello Everyone! I’m Joe Bowser
     </h1>
@@ -7,6 +7,7 @@
       I'm currently enrolled in a <b>Bachelors of IT: <i>Programming and Software Development</i></b> degree program at <b>Purdue University Global</b> 
       with an expected completion date of <b>February 2025</b>
     </p>
+</body>
   <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
