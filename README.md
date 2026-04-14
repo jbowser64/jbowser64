@@ -4,7 +4,7 @@
       👋 Hello Everyone! I’m Joe Bowser
     </h1>
     <p>
-      I am a software developer with experience in military, production, and warehouse operations. My software side specializes in Dotnet, with a few projects that involve a few different frameworks/design patterns: <b>MVC</b> <b>MVVM</b> and <b>Entity Framework</b>. 
+      I am a software developer with experience in military, production, and warehouse operations. My software side specializes in <b>C#/.NET</b>, with a few projects that involve a few different frameworks/design patterns: <b>MVC</b> <b>MVVM</b> and <b>Entity Framework</b>. 
     </p>
 </body>
   <!---
