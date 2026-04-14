@@ -4,8 +4,7 @@
       👋 Hello Everyone! I’m Joe Bowser
     </h1>
     <p>
-      I'm currently enrolled in a <b>Bachelors of IT: <i>Programming and Software Development</i></b> degree program at <b>Purdue University Global</b> 
-      with an expected completion date of <b>February 2025</b>
+      I am a software developer with experience in military, production, and warehouse operations. My software side specializes in Dotnet, with a few projects that involve a few different frameworks/design patterns: <b>MVC</b> <b>MVVM</b> and <b>Entity Framework</b>. 
     </p>
 </body>
   <!---
